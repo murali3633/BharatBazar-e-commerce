@@ -1,6 +1,6 @@
 # 🛒 BharatBazar – E-Commerce Website
 
-[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://bharatbazar-01.netlify.app/)  
+[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://bharatbazarr.netlify.app/)/)  
 
 
 
