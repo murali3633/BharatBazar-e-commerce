@@ -60,7 +60,7 @@ Contributions are welcome! Please open an issue or submit a pull request.
 
 **⭐ Star this repo if you find it helpful!**
 
-Made with ❤️ for India by amdadislam01
+Made with ❤️ for India by Murali Nadipinti
 
 </div>
 
