@@ -8,7 +8,7 @@
 
 BharatBazar is a modern e-commerce platform designed specifically for the Indian market. Built using HTML, CSS, Tailwind CSS, and JavaScript, it offers a clean, user-friendly interface with smooth animations.  This project is ideal for presenting products and services with a visually appealing and engaging shopping experience.  The focus is on a strong visual presentation and ease of navigation for potential customers.
 
-## ✨ Features
+## ✨ Features 
 
 - 🛍️ Product Showcase:  Displays products with clear imagery and descriptions.
 - 🎨 Responsive Design: Adapts seamlessly to various screen sizes (desktop, tablet, mobile).
