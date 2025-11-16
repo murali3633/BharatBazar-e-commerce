@@ -2,7 +2,6 @@
 
 [![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://bharatbazarr.netlify.app/)/)  
 
-
 ## 📖 Overview 
 
 BharatBazar is a modern e-commerce platform designed specifically for the Indian market. Built using HTML, CSS, Tailwind CSS, and JavaScript, it offers a clean, user-friendly interface with smooth animations.  This project is ideal for presenting products and services with a visually appealing and engaging shopping experience.  The focus is on a strong visual presentation and ease of navigation for potential customers.
